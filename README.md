@@ -53,3 +53,9 @@ For full usage and documentation please visit https://kamal-deploy.org and https
 * Make changes to `/usr/local/Library/Taps/acidtib/homebrew-kamal/kamal.rb`
 * Reinstall with `brew reinstall kamal` (send a pull request!)
 * Take a walk
+
+## Contributing
+Contributions are welcome! Feel free to open a pull request to make improvements.
+
+## Support
+If you encounter any issues or have questions about using this formula, please submit an issue..
